@@ -11,18 +11,42 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Electrical engineering, Furtwangen University, 2018
+* M.Sc. in Mechatronic Systems, Furtwangen University, 2020
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* 2015 - 2017: Research Assistant
+  * Steinbeis–Transferzentrums: Institute of Signal Processing and embedded Systems (ISPES), Furtwangen
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor Dr. Dirk Benyoucef
 
-* Fall 2015: Research Assistant
+* 2016 - 2017: Student Trainee
+  * Epsilon, Gesellschaft für technische Informatik mbH, Villingen-Schwenningen
+  * Duties included: Merging pull requests
+
+
+* 2017 - 2018: Trainee
+  * AUDI AG, Ingolstadt
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+
+* 2018: Research Assistant
+  * Furtwangen University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Dr. Robert Hönl
+
+* 2018: System engineer
+  * PHOENIX CONTACT
+  * Duties included: Merging pull requests
+
+* Since 2018  Researcher
+  * Furtwangen University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+
+* Since 2020: data scientist
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
