@@ -1,9 +1,9 @@
 ---
-title: "Teaching experience 1"
+title: "Introduction to Deep learning"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: "Furtwangen University, Mechanical and Medical Engineering"
 date: 2014-01-01
 location: "City, Country"
 ---
