@@ -3,7 +3,7 @@ title: "Deep Learning in Resource and Data Constrained Edge Computing Systems"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2021
+date: 2021-10-01
 venue: 'Machine Learning for Cyber Physical Systems'
 paperurl: 'https://library.oapen.org/bitstream/handle/20.500.12657/46102/2021_Book_MachineLearningForCyberPhysica.pdf?sequence=1#page=47'
 citation: 'P Sharma, M Rüb, D Gaida, H Lutz, A Sikora. (2009). &quot;Deep Learning in Resource and Data Constrained Edge Computing Systems.&quot; <i>Machine Learning for Cyber Physical Systems</i>. 1(1).'
