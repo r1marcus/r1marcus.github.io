@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Marcus Rüb / Site Title"
+locale                   : "de-DE"
+title                    : "Marcus Rüb / PhD Student"
 title_separator          : "-"
 name                     : &name "Marcus Rüb"
 description              : &description "personal description"
@@ -182,7 +182,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: true
