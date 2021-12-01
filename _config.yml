@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "de-DE"
-title                    : "Marcus Rüb / PhD Student"
+title                    : "Marcus Rüb"
 title_separator          : "-"
 name                     : &name "Marcus Rüb"
-description              : &description "personal description"
+description              : &description "PhD Student"
 url                      : https://r1marcus.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "r1marcus/r1marcus.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Marcus Rüb"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Research Scientist, Hahn-Schickard, PhD Student at TUM"
+  location         : "Germany"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=NP0HQCEAAAAJ&hl=de"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
